@@ -7,7 +7,8 @@
     "author": "vyngt",
     "website": "https://github.com/vyngt/odoo-sample-module",
     "category": "Services/Library",
-    "version": "16.0.1.0.0",
+     "version": "18.0.1.0.0",
+    "license": "LGPL-3",
     "depends": ["tutorial", "mail"],
     "data": [
         "security/tutorial_security.xml",
